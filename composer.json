@@ -1,0 +1,18 @@
+{
+    "name": "user/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    
+    "autoload": {
+        "psr-4": {
+            "User\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "enyioha success",
+            "email": "successceejay@gmail.com"
+        }
+    ]
+}
