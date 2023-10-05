@@ -1,8 +1,8 @@
 <div class="well">
    
-   
-<h4>Side Widget Well</h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, perspiciatis adipisci accusamus laudantium odit aliquam repellat tempore quos aspernatur vero.</p>
+   <!-- <center><h2>L.O.V.E</h2></center> -->
+
+<p><img class="img-responsive" src="images/rose.jpg" alt=""></p>
                     
                     
                 </div>
