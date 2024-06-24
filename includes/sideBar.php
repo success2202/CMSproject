@@ -24,7 +24,7 @@
             <span class="input-group-btn">
             <button class="btn btn-primary" name="login" type="submit">Login</button>
             </span>
-            </div>
+    </div>
 <br>
             <div class="form-group">
                  <a href="/cms/forgot.php?forgot=<?= uniqid(true); ?>">Forgot Password</a>  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;

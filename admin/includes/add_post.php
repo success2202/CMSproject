@@ -22,7 +22,7 @@ if(isset($_POST['create_post'])){
 
 //inserting the post to the database
    $query = "INSERT INTO posts(post_cat_id, post_heading, post_title, post_author, post_user, post_date, post_image, post_content, post_tags, post_status)
-             VALUES({$post_category_id}, '{$post_heading}', '{$post_title}', '{$post_author}', '{$post_user }', now(),'{$post_image}','{$post_content}','{$post_tags}', '{$post_status}')"; 
+             VALUES('{$post_category_id}', '{$post_heading}', '{$post_title}', '{$post_author}', '{$post_user }', now(),'{$post_image}','{$post_content}','{$post_tags}', '{$post_status}')"; 
  $result =  mysqli_query($con,$query);
       checkquerry($result); //function to check the query
 

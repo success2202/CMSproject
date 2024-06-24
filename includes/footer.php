@@ -12,6 +12,7 @@
 <a href="#" class="fa fa-youtube"></a>
 <a href="#" class="fa fa-instagram"></a>
 <a href="#" class="fa fa-pinterest"></a>
+
                 </div>
                 <!-- /.col-lg-12 -->
                 
